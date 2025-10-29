@@ -1,0 +1,43 @@
+29/10/2025
+
+    python ?
+
+    high level language
+    interperted -- line by  line execution
+    dynamic typed -- no need to declare variables types
+    exetensive liberies -- numpy,pandas,Djanjo
+    versitile -- used in AI,ML,Automation,data science....
+
+## print()
+
+    print is a built in function that displayes text in on the screen.
+
+## input()
+    
+    pauses the program and wait for user input.
+    returns the input as a str by defult.
+
+## common types
+
+    int,float,boolean,str
+
+## comment line
+
+    single line comment --  # code
+    multi line comment --  """   code...  """
+
+## variables
+
+    a variable ia name ref  that pointa to a value stored in memory
+
+## data types
+
+    text type -- str
+    numeric type -- int,float,complex
+    sequence type  -- list,tuple,range
+    mapping type -- dictonary
+    set type -- set
+    boolean type -- boolean
+    binary type -- bytes
+    none type -- none
+
