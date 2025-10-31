@@ -107,3 +107,31 @@ x=55
 y=56
 
 print((x>y)&(x<y))
+
+#membership operator
+
+x=["apple","banana"]
+print("banana" in x)
+print("mango" not in x)
+
+# bitwise operators
+
+x=8    
+y=3
+print(x^y)
+
+# list
+
+a=["apple","mango","banana"]
+print(a)
+print(a[0])
+print(a[-2])
+a[2]="orange"
+print(a[2:3])
+a.insert(2,"grapes")
+a.remove("apple")
+b=[1,2,3,4,5]
+b.pop()
+b.extend([8,9,0])
+b.sort()
+print(b)

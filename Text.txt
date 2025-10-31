@@ -30,6 +30,8 @@
 
     a variable ia name ref  that pointa to a value stored in memory
 
+30/10/2025
+
 ## data types
 
     text type -- str
@@ -78,5 +80,25 @@
 
             t=f
             f=t
+
+31/10/2025
+
+membership operatior
+
+    in   , not in   
+
+bitwise operators
+
+    &-and ,|-or ,^ - xor, ~ - not
+
+    8 = 1000
+    3 = 0011
+        1011=2
+
+list
+  
+    List is a sequence of collection data
+
+    we change the data
 
 
