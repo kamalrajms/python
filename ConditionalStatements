@@ -1,0 +1,45 @@
+# x=int(input("enter your age : "))
+# print(x)
+# if x>=18:
+#     print("eligible for vote")
+# else:
+#     print("not elegible for vote")
+
+
+# year=int(input("Enter year :"))
+
+# if year%400==0 & year%4==0:
+#     print(f"{year} is a leap year")
+# elif year%100==0:
+#     print(f"{year} not a leap year")
+# else:
+#      print(f"{year} not a leap year")
+
+
+
+age=19
+city=True
+
+if age>=18:
+    if age>=24 and city:
+        print("you are in city ,elegible for drive")
+
+    else:
+        print("you are in village ,you can elegible for drive")
+else:
+    print("not elegible for  drive")
+
+# marks=int(input("enter a mark:"))
+
+# if marks>=90:
+#     print("Grade A+")
+# elif marks>=80:
+#     print("Grade A")
+# elif marks>=70:
+#     print("Grade B")
+# elif marks>=60:
+#     print("Grade c")
+# else:
+#     print("Fail F")
+
+

@@ -102,3 +102,26 @@ list
     we change the data
 
 
+03/11/2025
+
+##conditional statements
+
+    if,else,elif
+    nested
+
+    syntex:
+
+    if condition:
+        //code
+    elif condition:
+        //code
+    else:
+        //code
+
+## loop
+
+    for loop  
+    while loop
+    dowhile loop
+
+
