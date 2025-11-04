@@ -118,10 +118,35 @@ list
     else:
         //code
 
+4/11/2025
+
 ## loop
 
-    for loop  
-    while loop
-    dowhile loop
+    a loops allowes you to execute a block of code repeatedly as log as a conditonal is true.
 
+    for loop -- used to iterate over a sequence (list,string,rande)
+        syntex
 
+            for variableName in sequence:
+                //code
+
+    while loop -- runs until acondition become false.
+
+        syntex
+
+            while condition:
+                //code
+
+## break,continue statement
+
+    break-- used to exit the loop immediatly ,even if the condition is till true.
+
+    continue-- used to skip the rest of code in the current loop interation 
+    and conndition with the next one.
+
+## else block with loop
+
+    The else part executes only if the loop is not broken  using break.
+
+## nested for 
+  
