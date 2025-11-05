@@ -120,7 +120,7 @@ list
 
 4/11/2025
 
-## loop
+## loop and nested loop 
 
     a loops allowes you to execute a block of code repeatedly as log as a conditonal is true.
 
@@ -148,5 +148,26 @@ list
 
     The else part executes only if the loop is not broken  using break.
 
-## nested for 
+## data structure
+
+ list ,tuple, dictonary,set
+
+ list-mutable,[]
+
+ tuple-immutable,()
+    data cannot be modify.
+    faster than list
+    used for fixed data.
+
+set- mutable ,{}
+    does not allow the duplicate values.
+
+Dectionary- key-immuatable,value-muatable,{}
+    a dictionary stores data in a key-vaues paris.
+    {key:value}
+
+nested dictionary
+
+
+
   
