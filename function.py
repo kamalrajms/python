@@ -89,5 +89,52 @@ def user(**details):
     
 
 user(name="kamal",city="salem")
+ 
+# scope of variable
+
+# local scope
+
+def show():
+    message="hello"
+    print(message)
+show()
+
+#global scope
+pop="hello global"
+def display():
+    print(pop)
+display()
+print(pop)
+
+#locl vs global
+
+x=5
+def show():
+    x=10
+    print("inside function",x)
+show()
+print("outsid a function",x)
+
+# modify global variable inside a function
+
+c=10
+
+def change():
+    global c
+    c=30
+    print(c)
+change()
+print(c)
+# nested function
+
+def outer():
+  
+    def inner():
+        print("inner function")
+   
+    inner()
+    print("outer function")
+outer()
+
 
 

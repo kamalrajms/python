@@ -194,6 +194,11 @@ list
         variable length arg
             *arg-- multiple positional arg
             **kwargs--multiple keyword arg
+    scope of variable
+        local scope
+        global scope
+        modify global variable inside a function
+    nested function
 
 
   
