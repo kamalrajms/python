@@ -194,11 +194,28 @@ list
         variable length arg
             *arg-- multiple positional arg
             **kwargs--multiple keyword arg
+9/11/2025
     scope of variable
         local scope
         global scope
         modify global variable inside a function
     nested function
+
+10/11/2025
+
+String and string functions in python
+
+    # string slicing
+    # step slicing
+    # string concatenation
+    # srting function
+    # string Comparison
+    # checking char in str
+
+
+
+
+
 
 
   
