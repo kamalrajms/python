@@ -212,6 +212,31 @@ String and string functions in python
     # string Comparison
     # checking char in str
 
+11/11/2025
+
+## Exceptional handling
+
+    when something unexpected happens in your code 
+    (like dividing by 0,opening a missing fileor wrong input),pyhton throwns an error..
+
+    Exceptional handleing lets you handle those errors gracefully -- without crasing the program.
+
+
+ syntexx:
+
+        try:
+            //code
+        except ErrorType:
+            // code
+        else:
+            //code
+        finally:
+            //code
+
+
+
+
+
 
 
 
