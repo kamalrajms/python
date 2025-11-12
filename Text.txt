@@ -233,11 +233,58 @@ String and string functions in python
         finally:
             //code
 
+12/11/2025
 
+## oops
 
+ object -oriented -programmming is a way of writing program where you model
+ real-world entites..
 
+ # attributes(data)== variables that describes it...
+ # Method (behaviour) == function that defines its actions..
 
+    real-- world        python
 
+        car      --       class
+        specificcar[bmw]--object
+        car color,model-- attributes
+        start(),stop()--  Method(def)
+
+# class and object
+    a class is a bluePrint for creating object
+    An object is an instance of that class
+
+# constructor  _init_()
+    the constructor is a special  method in python that autommatically runs 
+    when you create an object.
+
+    def _init_(self,parameter1,parameter2...): 
+
+# class variable and instance variable
+
+    instance variable== belongs to each object
+    class variable == shared by all object
+
+# types  of method in class
+
+     instance Methods-- works on object
+     class method-- works on class  data
+     static Method -- general utility (no access to class or instances)
+
+# Encaptulation (Data protection)
+
+     Encaptulation means hiding data and controlling access 
+     usinng private variables.
+
+# Inheritance (reusing code)
+
+    Inheritance allows a class (child) to reuse the 
+    properties and Methods of another class (parent).
+
+# Polymorphism
+
+Polymorphism means same function name but 
+different behaviour on the object.
 
 
 

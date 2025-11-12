@@ -5,6 +5,7 @@ try:
 except ZeroDivisionError:
     print("we can't divide it")
 
+
 try:
     x=int(input("enter a number 1:"))
     y=int(input("enter a number 2:"))
